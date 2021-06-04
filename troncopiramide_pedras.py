@@ -7,7 +7,7 @@ import png
 
 
 # Window Name
-window_name = "Planeta Terra"
+window_name = "Tronco de Pirâmide de Pedras"
 
 # Rotation vars
 left_button = False
